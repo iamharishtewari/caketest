@@ -5,4 +5,6 @@
 $b=2;
 $c=$a-$b;
 echo $c;
+
+echo "mul";
 ?>
